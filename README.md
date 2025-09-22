@@ -48,8 +48,8 @@ Customer churn is a critical business challenge in the telecommunications indust
    - Payment convenience affects retention
 
 5. **🌐 Internet Service Type**
-   - Fiber optic customers: Higher churn tendency
-   - DSL customers: More stable retention
+   - Customers without internet service: Higher churn tendency
+   - Fiber optic & DSL customers: More stable retention
    - Service quality/pricing concerns identified
 
 ## 🤖 Machine Learning Results
